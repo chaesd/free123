@@ -8,7 +8,8 @@ from concurrent.futures import ThreadPoolExecutor
 # --- 1. 配置你的订阅源 ---
 TARGET_URLS = [
     "https://ZmLyZv.mcsslk.xyz/5ad04c339a19e811d3e4729ab609f67b",
-    "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"# 在这里继续添加你找到的其他有效 Raw 链接...
+    "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
+    "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt"# 在这里继续添加你找到的其他有效 Raw 链接...
 ]
 
 # --- 2. 节点检测核心逻辑 ---
