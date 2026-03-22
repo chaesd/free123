@@ -6,8 +6,8 @@ import time
 # 在这里填入你找到的 GitHub 公开订阅源 (建议使用 Raw 链接)
 # 比如搜索 github "免费节点"、"free v2ray" 等找到的 txt 文件链接
 TARGET_URLS = [
-    "https://raw.githubusercontent.com/example_user/free_proxies/main/v2ray.txt",
-    "https://raw.githubusercontent.com/example_user/proxies/master/clash.txt"
+    "https://ZmLyZv.mcsslk.xyz/5ad04c339a19e811d3e4729ab609f67b",
+    "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
     # 替换为真实的 Github Raw 链接或包含节点的普通网页 URL
 ]
 
